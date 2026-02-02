@@ -11,6 +11,7 @@ Some fairly unassuming articles mostly centered around math, computational finan
 
 #### cs 
 * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+* [PyTorch Internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
 
 #### ml
 * [FAQ: How Do I interpret Odds Ratios in Logistic Regression](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
